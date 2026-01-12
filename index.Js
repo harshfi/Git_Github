@@ -8,3 +8,6 @@ let c=a*b;
 console.log(c);
 
 console.log(a-b);
+
+let d=5+5;
+console.log(d);
