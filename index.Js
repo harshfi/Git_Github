@@ -11,3 +11,10 @@ console.log(a-b);
 
 let d=5+5;
 console.log(d);
+
+
+console.log(a/b);
+console.log(a%b);
+
+console.log(a**2);
+console.log(2**3);
