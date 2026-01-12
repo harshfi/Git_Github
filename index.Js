@@ -8,5 +8,3 @@ let c=a*b;
 console.log(c);
 
 console.log(a-b);
-
-let sum=a+b+c;;
