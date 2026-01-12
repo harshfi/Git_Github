@@ -15,3 +15,6 @@ console.log(d);
 
 console.log(a/b);
 console.log(a%b);
+
+console.log(a**2);
+console.log(2**3);
